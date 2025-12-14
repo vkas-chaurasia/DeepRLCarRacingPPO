@@ -1,0 +1,8 @@
+gymnasium[box2d]
+torch
+torchsummary
+tqdm
+numpy
+Pillow
+tensorboard
+ipykernel
