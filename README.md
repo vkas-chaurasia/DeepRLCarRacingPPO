@@ -8,7 +8,7 @@ This repository contains a Proximal Policy Optimization (PPO) implementation for
 
 ## Structure
 
-- `param_1000/`, `param_2000/`: Checkpoints (renamed from `checkpoints/` in description for clarity, actual logic uses `checkpoints/` as root, wait. Current code `train.py` puts them in `checkpoints/param_X`).
+- `param_1000/`, `param_2000/`: Checkpoints.
 - `logs/`: Training logs.
 - `assets/`: Images and GIFs.
 - `network.py`: Neural network architecture.
