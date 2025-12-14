@@ -1,5 +1,7 @@
 # DeepRL Car Racing PPO
 
+This project was completed as part of the **Deep Reinforcement Learning** module (3 ECTS credits) at the **ZHAW Center for Artificial Intelligence**.
+
 This repository contains a Proximal Policy Optimization (PPO) implementation for the `CarRacing-v2` environment in Gymnasium.
 
 ## Demo
