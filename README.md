@@ -16,7 +16,6 @@ This repository contains a Proximal Policy Optimization (PPO) implementation for
 - `environment.py`: Environment wrapper.
 - `train.py`: Training script.
 - `test.py`: Testing and validation script.
-- `legacy/`: Old notebooks.
 
 ## Installation
 
